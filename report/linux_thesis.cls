@@ -10,7 +10,7 @@
 \PassOptionsToPackage{CJKchecksingle}{xeCJK}
 
 %采用5号字体
-\LoadClass[c5size,a4paper,fancyhdr,fntef]{ctexbook}
+\LoadClass[12pt,a4paper,fancyhdr,fntef]{ctexbook}
 
 %Chinese font size
 \newcommand{\chuhao}    {\fontsize{42pt}   {\baselineskip}\selectfont}
@@ -57,6 +57,7 @@
 \RequirePackage{titletoc}
 \RequirePackage{titlesec}
 
+\CTEXsetup[name={Chapter~,}]{chapter}
 \CTEXsetup[number={\arabic{chapter}}]{chapter}
 
 \titleformat{\chapter}[display]
