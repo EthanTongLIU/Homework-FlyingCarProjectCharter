@@ -10,9 +10,9 @@
 \contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}3.2}Responsibility}{13}{section.3.2}
 \contentsline {chapter}{\numberline {Chapter\nobreakspace {}4\hspace {.3em}}Project Plan}{15}{chapter.4}
 \contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.1}Project phases and key tasks}{15}{section.4.1}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.2}Timeline}{15}{section.4.2}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.3}Milestone}{15}{section.4.3}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.4}Project plan execution and report}{16}{section.4.4}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.2}Timeline}{16}{section.4.2}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.3}Milestone}{16}{section.4.3}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.4}Project plan execution and report}{17}{section.4.4}
 \contentsline {chapter}{\numberline {Chapter\nobreakspace {}5\hspace {.3em}}Project Document Management}{19}{chapter.5}
 \contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}5.1}Importance of project document management}{19}{section.5.1}
 \contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}5.2}Project document system}{19}{section.5.2}
