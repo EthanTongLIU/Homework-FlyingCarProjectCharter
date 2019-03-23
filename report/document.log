@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.6.29)  23 MAR 2019 00:26
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.12.5)  23 MAR 2019 22:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2008,24 +2008,26 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Font Info:    Calculating math sizes for size <14> on input line 1.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9.79996> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 1.
+LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 5.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7.34996> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5.25> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 5.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1852) has occurred while \output is active []
 
- [5])
-\tf@toc=\write6
-\openout6 = `document.toc'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+ [5]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6]
+[6])
+\tf@toc=\write6
+\openout6 = `document.toc'.
+
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -2047,26 +2049,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Chapter\nobreakspace {}1
-) [9]
-\openout2 = `chapter/c2.aux'.
-
- (./chapter/c2.tex
+[9]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10
+[10])
 
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
+[11]
+\openout2 = `chapter/c2.aux'.
 
-]
-Chapter\nobreakspace {}2
-) [11]
-\openout2 = `chapter/c3.aux'.
-
- (./chapter/c3.tex
+ (./chapter/c2.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -2078,31 +2078,31 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-Chapter\nobreakspace {}3
-) [13]
-\openout2 = `chapter/c4.aux'.
-
- (./chapter/c4.tex
+Chapter\nobreakspace {}2
+[13]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14
+[14]
+Underfull \vbox (badness 3872) has occurred while \output is active []
 
 
 
-]
-Chapter\nobreakspace {}4
-File: pic/wbs.pdf Graphic file (type QTm)
-<use  "pic/wbs.pdf" >
-Underfull \vbox (badness 3482) has occurred while \output is active []
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
- [15]
+[15]
+Overfull \hbox (16.81729pt too wide) in paragraph at lines 69--70
+[]\TU/lmr/m/n/12 FRP include carbon-fibre-reinforced polymer(CFRP) and glass-re
+inforced plastic(GRP).
+ []
 
-LaTeX Warning: Text page 16 contains only floats.
-
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -2110,13 +2110,35 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [16]
+\openout2 = `chapter/c3.aux'.
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+ (./chapter/c3.tex
+Chapter\nobreakspace {}3
 
-[17])
+Overfull \hbox (150.53174pt too wide) in paragraph at lines 41--41
+ [][]| 
+ []
+
+
+Overfull \hbox (5.53174pt too wide) in paragraph at lines 42--42
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.72174pt too wide) in paragraph at lines 54--54
+ []|[]| 
+ []
+
+
+Overfull \hbox (28.51173pt too wide) in paragraph at lines 70--70
+ []|[]| 
+ []
+
+[17
+
+
+
+])
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -2124,63 +2146,131 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [18]
+\openout2 = `chapter/c4.aux'.
+
+ (./chapter/c4.tex
+Chapter\nobreakspace {}4
+File: pic/wbs.pdf Graphic file (type QTm)
+<use  "pic/wbs.pdf" > [19
+
+
+
+]
+
+LaTeX Warning: Text page 20 contains only floats.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22]
 \openout2 = `chapter/c5.aux'.
 
  (./chapter/c5.tex
 Chapter\nobreakspace {}5
-) [19
+[23
 
 
 
 ]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[24]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26]
 \openout2 = `chapter/c6.aux'.
 
  (./chapter/c6.tex
+Chapter\nobreakspace {}6
+[27
+
+
+
+])
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20
-
-
-
-]
-Chapter\nobreakspace {}6
-) [21]
+[28]
 \openout2 = `chapter/c7.aux'.
 
  (./chapter/c7.tex
+Chapter\nobreakspace {}7
+
+Underfull \vbox (badness 1502) has occurred while \output is active []
+
+ [29
+
+
+
+]
+Underfull \vbox (badness 7704) has occurred while \output is active []
+
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[22
+[30]
 
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
+[31])
 
-]
-Chapter\nobreakspace {}7
-) [23]
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32]
 \openout2 = `chapter/c8.aux'.
 
  (./chapter/c8.tex
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[24
+Chapter\nobreakspace {}8
+) [33
 
 
 
 ]
-Chapter\nobreakspace {}8
-) [25]
 \openout2 = `chapter/c9.aux'.
 
  (./chapter/c9.tex
@@ -2190,13 +2280,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[26
+[34
 
 
 
 ]
 Chapter\nobreakspace {}9
-) [27]
+) [35]
 \openout2 = `chapter/c10.aux'.
 
  (./chapter/c10.tex
@@ -2206,13 +2296,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[28
+[36
 
 
 
 ]
 Chapter\nobreakspace {}10
-) [29]
+) [37]
 \openout2 = `chapter/appendix.aux'.
 
  (./chapter/appendix.tex
@@ -2222,11 +2312,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[30
+[38
 
 
 
-]) [31]
+]) [39]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 55.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 55.
  (./document.aux (./chapter/titlepage.aux) (./chapter/version.aux)
@@ -2238,12 +2328,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 55.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 55.
  ) 
 Here is how much of TeX's memory you used:
- 30019 strings out of 493005
- 562183 string characters out of 6137956
- 640297 words of memory out of 5000000
- 33521 multiletter control sequences out of 15000+600000
- 22169 words of font info for 114 fonts, out of 8000000 for 9000
+ 30116 strings out of 493005
+ 565565 string characters out of 6137956
+ 650963 words of memory out of 5000000
+ 33615 multiletter control sequences out of 15000+600000
+ 30018 words of font info for 148 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  63i,13n,79p,10441b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on document.pdf (31 pages).
+Output written on document.pdf (39 pages).

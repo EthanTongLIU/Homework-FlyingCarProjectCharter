@@ -1,37 +1,60 @@
 \contentsline {chapter}{\numberline {Chapter\nobreakspace {}1\hspace {.3em}}Introduction of Projrct Charter}{9}{chapter.1}
 \contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}1.1}Overview}{9}{section.1.1}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}1.2}Project Objectives}{9}{section.1.2}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}2\hspace {.3em}}Project Scope}{11}{chapter.2}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}2.1}Function Scope}{11}{section.2.1}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}2.2}Entity Scope}{11}{section.2.2}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}2.3}Technology Scope}{11}{section.2.3}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}3\hspace {.3em}}Project Organizational Structure}{13}{chapter.3}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}3.1}Project Organizational Structure}{13}{section.3.1}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}3.2}Responsibility}{13}{section.3.2}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}4\hspace {.3em}}Project Plan}{15}{chapter.4}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.1}Project phases and key tasks}{15}{section.4.1}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.2}Timeline}{17}{section.4.2}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.3}Milestone}{17}{section.4.3}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.4}Project plan execution and report}{18}{section.4.4}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}5\hspace {.3em}}Project Document Management}{19}{chapter.5}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}5.1}Importance of project document management}{19}{section.5.1}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}5.2}Project document system}{19}{section.5.2}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}5.3}Project document management environment}{19}{section.5.3}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}6\hspace {.3em}}Project Communication Management}{21}{chapter.6}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}6.1}Project decision process}{21}{section.6.1}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}6.2}Project meeting}{21}{section.6.2}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}7\hspace {.3em}}Project Risk Management}{23}{chapter.7}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}7.1}Risk of implementation cycle delays}{23}{section.7.1}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}7.2}Implementation scope risk}{23}{section.7.2}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}7.3}Personnel risk}{23}{section.7.3}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}7.4}management reform risk}{23}{section.7.4}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}8\hspace {.3em}}Project Change Management}{25}{chapter.8}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}8.1}Raise the change}{25}{section.8.1}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}8.2}Response from the receiver}{25}{section.8.2}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}8.3}Approval of the applicant}{25}{section.8.3}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}8.4}Change implementation}{25}{section.8.4}
-\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}8.5}Flow of variation procedure}{25}{section.8.5}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}9\hspace {.3em}}Quality Control}{27}{chapter.9}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}10\hspace {.3em}}Acceptance Level}{29}{chapter.10}
-\contentsline {chapter}{Appendix}{31}{chapter*.3}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}1.2}Background}{9}{section.1.2}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}1.3}Objective}{10}{section.1.3}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}1.3.1}Safety}{10}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}1.3.2}Reliability}{10}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}1.3.3}Environmentally-friendly}{11}{subsection.1.3.3}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}1.4}Cost}{11}{section.1.4}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}2\hspace {.3em}}Project Scope}{13}{chapter.2}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}2.1}Stakeholders}{13}{section.2.1}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}2.1.1}Project Sponsor}{13}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}2.1.2}Project Team Members}{13}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}2.1.3}Project Customer}{14}{subsection.2.1.3}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}2.2}Technology}{15}{section.2.2}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}2.2.1}Modeling}{15}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}2.2.2}Engine}{15}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}2.2.3}Material}{16}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}2.2.4}Flight control system}{16}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}2.2.5}Test-analysis}{16}{subsection.2.2.5}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}3\hspace {.3em}}Project Organizational Structure}{17}{chapter.3}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}3.1}Project Organizational Chart}{17}{section.3.1}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}3.2}Responsibility}{17}{section.3.2}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}3.2.1}Project management team responsibilities}{17}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}3.2.2}Product development team}{18}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}3.2.3}Project Promotion Team and Coordination Group}{18}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}3.2.4}Other participants and groups of the project}{18}{subsection.3.2.4}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}3.3}Responsibility matrix}{18}{section.3.3}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}4\hspace {.3em}}Project Plan}{19}{chapter.4}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.1}Project phases and key tasks}{19}{section.4.1}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.2}Timeline}{19}{section.4.2}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.3}Milestone}{21}{section.4.3}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}4.4}Project plan execution and report}{21}{section.4.4}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}5\hspace {.3em}}Project Document Management}{23}{chapter.5}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}5.1}Importance of project document management}{23}{section.5.1}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}5.2}Project document system}{23}{section.5.2}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}5.3}Project document management environment}{26}{section.5.3}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}6\hspace {.3em}}Project Communication Management}{27}{chapter.6}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}6.1}Project decision process}{27}{section.6.1}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}6.2}Project meeting}{27}{section.6.2}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}7\hspace {.3em}}Project Risk Management}{29}{chapter.7}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}7.1}Main Risks}{29}{section.7.1}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}7.1.1}Technology and Design Risks}{29}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}7.1.2}Certification Risk}{30}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}7.1.3}Market Risk}{30}{subsection.7.1.3}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}7.1.4}Budget Risk}{30}{subsection.7.1.4}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}7.2}Additional Risks}{31}{section.7.2}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}7.2.1}Implementation Risks}{31}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}7.2.2}Production Risks}{31}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}7.2.3}Worker Risks}{31}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {\S \tmspace +\thinmuskip {.1667em}7.2.4}Management Risks}{32}{subsection.7.2.4}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}8\hspace {.3em}}Project Change Management}{33}{chapter.8}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}8.1}Raise the change}{33}{section.8.1}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}8.2}Response from the receiver}{33}{section.8.2}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}8.3}Approval of the applicant}{33}{section.8.3}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}8.4}Change implementation}{33}{section.8.4}
+\contentsline {section}{\numberline {\S \tmspace +\thinmuskip {.1667em}8.5}Flow of variation procedure}{33}{section.8.5}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}9\hspace {.3em}}Quality Control}{35}{chapter.9}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}10\hspace {.3em}}Acceptance Level}{37}{chapter.10}
+\contentsline {chapter}{Appendix}{39}{chapter*.3}
 \contentsfinish 
