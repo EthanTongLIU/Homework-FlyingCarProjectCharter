@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.12.5)  22 MAR 2019 20:08
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.6.29)  23 MAR 2019 00:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2095,40 +2095,44 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Chapter\nobreakspace {}4
-
+File: pic/wbs.pdf Graphic file (type QTm)
+<use  "pic/wbs.pdf" >
 Underfull \vbox (badness 3482) has occurred while \output is active []
 
  [15]
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+LaTeX Warning: Text page 16 contains only floats.
 
-[16])
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17]
+[16]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[17])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18]
 \openout2 = `chapter/c5.aux'.
 
  (./chapter/c5.tex
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[18
+Chapter\nobreakspace {}5
+) [19
 
 
 
 ]
-Chapter\nobreakspace {}5
-) [19]
 \openout2 = `chapter/c6.aux'.
 
  (./chapter/c6.tex
@@ -2234,10 +2238,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 55.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 55.
  ) 
 Here is how much of TeX's memory you used:
- 30015 strings out of 493005
- 562145 string characters out of 6137956
- 640265 words of memory out of 5000000
- 33518 multiletter control sequences out of 15000+600000
+ 30019 strings out of 493005
+ 562183 string characters out of 6137956
+ 640297 words of memory out of 5000000
+ 33521 multiletter control sequences out of 15000+600000
  22169 words of font info for 114 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  63i,13n,79p,10441b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
